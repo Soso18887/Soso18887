@@ -16,11 +16,9 @@
  
  <br>
  
- 
- 
+
 <div> 
    
- 
   ![Snake animation](https://github.com/Soso18887/Soso18887/blob/output/github-contribution-grid-snake.svg)
 
 </div>
